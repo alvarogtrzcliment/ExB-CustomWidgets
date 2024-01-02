@@ -1,0 +1,19 @@
+{
+  "name": "anadir-punto",  
+  "label": "Añadir Punto",
+  "type": "widget",
+  "version": "1.12.0",
+  "exbVersion": "1.12.0",
+  "author": "Álvaro Gutiérrez",
+  "description": "Este widget utilizando el input d eun usuario con las coordenadas X e Y añade un gráfico al mapa",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 320,
+    "height": 320
+  }
+}

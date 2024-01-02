@@ -1,0 +1,17 @@
+.widget{
+  background: rgb(93,87,195);
+  background: linear-gradient(347deg, rgba(93,87,195,1) 0%, rgba(198,125,175,1) 53%, rgba(129,234,255,1) 100%);
+  padding: 15px;
+  font-family: monospace;
+  border-radius: 15px;
+  box-shadow: 10px 10px 24px 3px rgba(0,0,0,0.75);
+  width: 280px;
+}
+
+h1{
+  font-size: large;
+}
+
+.NumericInput{
+  margin-bottom: 10px;
+}
