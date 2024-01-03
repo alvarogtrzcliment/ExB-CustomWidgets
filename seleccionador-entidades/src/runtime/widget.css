@@ -1,0 +1,29 @@
+.widget{
+  background: rgb(170,236,189);
+  background: linear-gradient(347deg, rgba(170,236,189,1) 0%, rgba(129,234,255,1) 100%);
+  padding: 20px;
+  border-radius: 20px;
+  animation-duration: 100ms;
+  font-family: monospace;
+  box-shadow: 10px 10px 8px 1px rgba(0,0,0,0.75);
+  width: 300px;
+}
+
+h3{
+  font-family: monospace;
+  font-size: large;
+  font-weight: 700;
+}
+
+.Lista{
+  height: 150px;
+  
+}
+
+.ListaBoton{
+  width: 250px;
+}
+
+.ListaBoton:hover{
+  background-color: rgba(0, 0, 0, 0.098);
+}

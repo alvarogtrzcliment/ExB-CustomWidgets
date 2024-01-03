@@ -1,0 +1,19 @@
+{
+  "name": "seleccionador-entidades",  
+  "label": "Seleccionador de entidades",
+  "type": "widget",
+  "version": "1.12.0",
+  "exbVersion": "1.12.0",
+  "author": "Álvaro Gutiérrez",
+  "description": "Widget que crea un panel de selección en función de una fuente de datos, y al seleccionar el elemento en la lista se selecciona en el mapa",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 320,
+    "height": 320
+  }
+}
