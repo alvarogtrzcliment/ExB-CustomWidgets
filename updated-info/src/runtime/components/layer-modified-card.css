@@ -1,0 +1,23 @@
+.card{
+  background-color: rgb(241, 241, 241);
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+  margin: 10%;
+  width: 100% inherit;
+
+  & h3{
+    padding:3% 3% 0% 3%;
+    border-bottom-width: 3px !important;
+    border-bottom-style: solid !important;
+    border-bottom-color: rgb(60, 132, 138) !important;
+
+    word-break: break-all;
+    white-space: normal;
+  }
+
+  & p{
+    padding: 0% 3% 3% 3%;
+    word-break: break-all;
+    white-space: normal;
+  }
+}

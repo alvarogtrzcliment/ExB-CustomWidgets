@@ -1,0 +1,12 @@
+{
+  "name": "updated-info",
+  "label": "Updated Info",
+  "type": "widget",
+  "version": "1.13.0",
+  "exbVersion": "1.13.0",
+  "author": "Aleix Batlle, Álvaro Gutiérrez",
+  "description": "Widget that displays the modification of a group of layers in a WebMap",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {}
+}
