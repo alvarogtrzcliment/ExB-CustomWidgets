@@ -1,0 +1,34 @@
+.informacionMapa{
+  background-color: rgb(243, 243, 243);
+  border-radius: 15px;
+  padding: 20px;
+  margin: 10px;
+  box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+
+  h3 {
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-color:rgb(54, 99, 122) ;
+  }
+
+  .tagParagraph{
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color:rgb(54, 99, 122)
+  }
+
+  .tagDiv{
+    display: flex;
+    flex-wrap: wrap;
+
+    .infoTag{
+      background-color: rgb(162, 207, 229);
+      border-radius: 20px;
+      padding: 10px;
+      margin: 5px;
+      box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+    } 
+  }
+
+  
+}
