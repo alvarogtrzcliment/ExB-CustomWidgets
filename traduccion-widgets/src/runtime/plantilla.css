@@ -1,0 +1,15 @@
+.plantilla {
+
+    background-color: aliceblue;
+    border-radius: 25px;
+    padding:10px;
+
+    & .encabezado{
+        display: flex;
+        flex-direction: row;
+        & img{
+            width:50px;
+            padding:10px;
+        }
+    }
+}
