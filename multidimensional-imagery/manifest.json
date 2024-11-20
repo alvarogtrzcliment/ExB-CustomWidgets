@@ -1,0 +1,19 @@
+{
+  "name": "multidimensional-imagery",
+  "label": "Multidimensional Imagery",
+  "type": "widget",
+  "version": "1.15.0",
+  "exbVersion": "1.15.0",
+  "author": " Álvaro Gutiérrez, Libertad Chapinal, Aleix Batlle",
+  "description": ".",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 650,
+    "height": 150
+  }
+}
